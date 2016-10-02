@@ -29,5 +29,5 @@ markdown: kramdown
 theme: minima
 
 #Timezone
-Timezone: TH
+Timezone: Asia/Bangkok
 future: true
