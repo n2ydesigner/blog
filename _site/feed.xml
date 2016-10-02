@@ -4,10 +4,10 @@
     <title>Quy Pham Blog</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Oct 2016 00:27:28 +0700</pubDate>
-    <lastBuildDate>Mon, 03 Oct 2016 00:27:28 +0700</lastBuildDate>
+    <link>/blog/</link>
+    <atom:link href="/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 03 Oct 2016 00:38:48 +0700</pubDate>
+    <lastBuildDate>Mon, 03 Oct 2016 00:38:48 +0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -32,8 +32,8 @@
 
 </description>
         <pubDate>Sun, 02 Oct 2016 17:14:25 +0700</pubDate>
-        <link>/jekyll/update/2016/10/02/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">/jekyll/update/2016/10/02/welcome-to-jekyll.html</guid>
+        <link>/blog/jekyll/update/2016/10/02/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">/blog/jekyll/update/2016/10/02/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -52,8 +52,8 @@
 
 </description>
         <pubDate>Sat, 01 Oct 2016 12:14:25 +0700</pubDate>
-        <link>/jekyll/update/2016/10/01/timezone.html</link>
-        <guid isPermaLink="true">/jekyll/update/2016/10/01/timezone.html</guid>
+        <link>/blog/jekyll/update/2016/10/01/timezone.html</link>
+        <guid isPermaLink="true">/blog/jekyll/update/2016/10/01/timezone.html</guid>
         
         
         <category>jekyll</category>
