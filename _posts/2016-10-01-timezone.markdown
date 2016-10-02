@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Timezone!"
-date:   2016-10-01 12:14:25 +0700
+date:   2016-10-01 08:14:25 +0700
 categories: jekyll update
 ---
 Hello world ! Timezone test
