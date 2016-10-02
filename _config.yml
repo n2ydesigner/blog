@@ -30,3 +30,4 @@ theme: minima
 
 #Timezone
 Timezone: TH
+future: true
